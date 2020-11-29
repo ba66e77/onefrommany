@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.e-pluribus-unum p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 2px 0px 2px 0;
+
+}
+
+.e-pluribus-unum .line1 {
+  font-size: 7.5vw;
+  font-weight: bold;
+
+  background-color: #db0230;
+  color: white;
+}
+
+.e-pluribus-unum .line2 {
+  font-size: 5.5vw;
+
+  background-color: white
+}
+
+.e-pluribus-unum .line3 {
+  font-size: 11.5vw;
+
+  background-color: #118cca;
+  color: white;
+}
