@@ -4,13 +4,16 @@
 
 @import "minima";
 
+.content p {
+	margin: 5px 0px;
+}
+
 .e-pluribus-unum p {
   display: flex;
   justify-content: center;
   align-items: center;
 
   margin: 2px 0px 2px 0;
-
 }
 
 .e-pluribus-unum .line1 {
